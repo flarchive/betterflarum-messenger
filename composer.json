@@ -1,0 +1,39 @@
+{
+    "name": "betterflarum/messenger",
+    "description": "Add Messenger app UI to your forum. Enable neoncube/flarum-private-messaging to start using.",
+    "keywords": [
+        "flarum",
+        "chat",
+        "private message",
+        "direct messsage",
+        "messenger",
+        "facebook",
+        "betterflarum",
+        "DM"
+    ],
+    "type": "flarum-theme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "BetterFlarum",
+            "email": "phucapk08@gmail.com",
+            "homepage": "https://modpack.vn"
+        }
+    ],
+    "require": {
+        "blomstra/fontawesome": "*",
+        "neoncube/flarum-private-messages": "*",
+        "flarum/core": "^1.8.5"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Messenger",
+            "icon": {
+                "name": "fab fa-facebook-messenger",
+                "background": "#FFFFFF",
+                "color": "#006AFF"
+            },
+            "category": "theme"
+        }
+    }
+}
