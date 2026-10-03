@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of betterflarum/messenger.** Not for installation: use [Packagist](https://packagist.org/packages/betterflarum/messenger) or the [upstream repository](https://github.com/betterflarum/messenger).
 
-**0** versions archived · Latest: [`2.0`](https://github.com/flarchive/betterflarum-messenger/tree/archive/v2.0) · License: `MIT` · Flarum: `^1.8.5`
+**2** versions archived · Latest: [`2.0`](https://github.com/flarchive/betterflarum-messenger/tree/archive/v2.0) · License: `MIT` · Flarum: `^1.8.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2025-07-16 | `^1.8.5` | [Browse](https://github.com/flarchive/betterflarum-messenger/tree/archive/v1.0) |
+| `2.0` | 2025-07-16 | `^1.8.5` | [Browse](https://github.com/flarchive/betterflarum-messenger/tree/archive/v2.0) |
 
 Catalog entry: [packages/betterflarum-messenger.json](https://github.com/flarchive/archive-index/blob/main/packages/betterflarum-messenger.json)
 
